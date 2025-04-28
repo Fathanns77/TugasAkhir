@@ -9,11 +9,12 @@
 
 <p>halaman shop</p>
 <img src="https://i.postimg.cc/vmYW3LQC/Screenshot-2025-04-28-103552.png" alt="Sepatu Keren" width="600">
+<p>halaman contact</p>
 <img src="https://i.postimg.cc/1Xq6fvHV/Screenshot-2025-04-28-103631.png" alt="Sepatu Keren" width="600">
 
-<p>halaman contact</p>
-<img src="https://i.postimg.cc/Ss5CSBWp/Screenshot-2025-04-28-103653.png" alt="Sepatu Keren" width="600">
-
 <p>halaman sepatu</p>
-<img src="https://i.postimg.cc/vm05jgTT/Screenshot-2025-04-28-103705.png" alt="Sepatu Keren" width="600">
+<img src="https://i.postimg.cc/Ss5CSBWp/Screenshot-2025-04-28-103653.png" alt="Sepatu Keren" width="600">
 <img src="https://i.postimg.cc/tT7FHqn5/Screenshot-2025-04-28-103715.png" alt="Sepatu Keren" width="600">
+<p>halaman cart</p>
+<img src="https://i.postimg.cc/vm05jgTT/Screenshot-2025-04-28-103705.png" alt="Sepatu Keren" width="600">
+
